@@ -1,1 +1,1 @@
-# CodeClauseInternship_facial-recognition-system.
+# CodeClauseInternship_facial-recognition-system
